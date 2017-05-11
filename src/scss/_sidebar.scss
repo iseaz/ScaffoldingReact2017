@@ -1,0 +1,20 @@
+#sidebar {
+	@include r('d'){
+		float: left;
+		margin-bottom: 0;
+		width: percentage(448/2220);
+	}
+
+	>a {
+		border-bottom: 1px solid #999;
+		display: block;
+		height: 0;
+		padding-bottom: percentage(109/1024);
+		position: relative;
+		text-transform: uppercase;
+
+		@include r('d'){
+			padding-bottom: percentage(109/448);
+		}
+	}
+}
