@@ -1,7 +1,7 @@
-# scaffolding-react-2017
-git clone https://github.com/iseaz/scaffolding-react-2017.git
+# ScaffoldingReact2017
+git clone https://github.com/iseaz/ScaffoldingReact2017.git
 <br>
-cd scaffolding-react-2017
+cd ScaffoldingReact2017
 <br>
 npm install
 <br>
